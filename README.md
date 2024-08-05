@@ -14,3 +14,5 @@ Se sugiere fomentar ampliamente la creatividiad del estudiante, algunos ejemplos
 
 
 El objetivo es tener un código inicial que será usado en el proyecto final como un MVP de ETL . El script debería extraer datos en JSON desde una API pública o gratuita para luego convertir estos datos en diccionario Python y posterior manipulación. A su vez, la entrega involucra la creación de una versión inicial de la tabla donde los datos serán cargados posteriormente.                    
+
+Prueba
